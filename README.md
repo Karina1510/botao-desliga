@@ -8,7 +8,7 @@ CSS3: Responsável por todo o design, animações de transição, e os efeitos d
 
 Font Awesome: Fornece os ícones de "verificado" e "fechado" (check e xmark) que indicam o estado do botão.
 
-##✨ Funcionalidades
+## ✨ Funcionalidades
 Design Neumórfico: O botão utiliza sombras internas e gradientes para criar um efeito 3D suave, como se estivesse "moldado" no plano de fundo.
 
 Transição de Estado: A animação de clique alterna o fundo, as sombras e o espaçamento interno do botão, proporcionando um feedback visual claro e satisfatório.
@@ -17,7 +17,7 @@ Indicadores de Estado: Os ícones de verificado (verde) e fechado (vermelho) mud
 
 Puro HTML e CSS: A funcionalidade de alternância e a animação são totalmente construídas sem JavaScript, tornando o componente leve e fácil de implementar.
 
-##🛠️ Como Usar
+## 🛠️ Como Usar
 Clone o repositório para a sua máquina local.
 
 Abra o arquivo index.html em seu navegador para ver o botão em ação.
